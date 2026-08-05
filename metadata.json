@@ -1,0 +1,6 @@
+{
+  "name": "Tarang Inclusive Calendar",
+  "description": "AI-powered inclusive interactive calendar for children with developmental disabilities, featuring QR code linked multimedia learning, Gemini AI voice assistant in 12 Indian languages, Indian cultural events, traditional games, SOS emergency alerts, and caregiver management.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
