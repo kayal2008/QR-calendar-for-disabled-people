@@ -1,20 +1,34 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# QR Calendar for Disabled People
 
-# Run and deploy your AI Studio app
+An inclusive digital calendar designed to make everyday planning, learning, and communication more accessible for people with disabilities.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/1cacdd55-e945-495c-b607-ab42fe29e8ab
+- 📅 Interactive calendar
+- 🔳 QR-based learning and multimedia content
+- 🤖 AI-powered assistance
+- 🗣️ Multilingual support
+- 🆘 SOS emergency support
+- 👨‍👩‍👧 Caregiver support
+- 🇮🇳 Indian cultural events and learning content
 
-## Run Locally
+## Tech Stack
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Node.js
+- Express
+- Google Gemini API
 
+## Project Purpose
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+The project focuses on combining accessibility, AI, and interactive digital experiences to create a more inclusive calendar experience.
+
+## Getting Started
+
+### Install dependencies
+
+```bash
+npm install
