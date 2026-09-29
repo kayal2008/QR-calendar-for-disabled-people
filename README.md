@@ -2,33 +2,36 @@
 
 An inclusive digital calendar designed to make everyday planning, learning, and communication more accessible for people with disabilities.
 
-## Features
+## 🌟 Features
 
-- 📅 Interactive calendar
+- 📅 Interactive calendar experience
 - 🔳 QR-based learning and multimedia content
-- 🤖 AI-powered assistance
+- 🤖 AI-powered assistant using Google Gemini
 - 🗣️ Multilingual support
-- 🆘 SOS emergency support
-- 👨‍👩‍👧 Caregiver support
+- 🆘 SOS assistance
+- 👨‍👩‍👧 Caregiver-focused support
 - 🇮🇳 Indian cultural events and learning content
+- 📚 Child-friendly daily facts and activities
+- 🎨 Interactive festival and learning experiences
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-- Node.js
-- Express
-- Google Gemini API
+- **Frontend:** React, TypeScript, Vite
+- **Styling:** Tailwind CSS
+- **Backend:** Node.js, Express
+- **AI:** Google Gemini API
+- **Additional:** QR Code, Lucide React, Motion
 
-## Project Purpose
+## 🎯 Project Purpose
 
-The project focuses on combining accessibility, AI, and interactive digital experiences to create a more inclusive calendar experience.
+The project combines accessibility, artificial intelligence, and interactive digital experiences to create a more inclusive calendar experience for people with disabilities.
 
-## Getting Started
+It aims to support everyday planning while providing accessible learning, communication, and caregiver-oriented features.
 
-### Install dependencies
+## 🚀 Getting Started
+
+### 1. Clone the repository
 
 ```bash
-npm install
+git clone https://github.com/kayal2008/QR-calendar-for-disabled-people.git
+cd QR-calendar-for-disabled-people
